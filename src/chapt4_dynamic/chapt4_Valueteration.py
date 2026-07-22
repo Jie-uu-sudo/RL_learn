@@ -1,4 +1,4 @@
-from chapt4_dynamic_CliffwalkingEnv import CliffWalkingEnv
+from src.chapt4_dynamic.chapt4_dynamic_CliffwalkingEnv import CliffWalkingEnv
 
 class ValueIteration:
     """策略迭代算法"""

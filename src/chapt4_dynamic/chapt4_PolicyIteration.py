@@ -1,5 +1,5 @@
 import copy
-from chapt4_dynamic_CliffwalkingEnv import CliffWalkingEnv
+from src.chapt4_dynamic.chapt4_dynamic_CliffwalkingEnv import CliffWalkingEnv
 
 class PolicyIteration:
     """策略迭代算法"""

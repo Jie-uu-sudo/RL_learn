@@ -1,0 +1,16 @@
+pyproject.toml
+src/chapt2_rl_MAB/__init__.py
+src/chapt2_rl_MAB/chapt2_rl_MAB_UCB.py
+src/chapt2_rl_MAB/chapt2_rl_MAB_epsilon.py
+src/chapt4_dynamic/__init__.py
+src/chapt4_dynamic/chapt4_PolicyIteration.py
+src/chapt4_dynamic/chapt4_Valueteration.py
+src/chapt4_dynamic/chapt4_dynamic_CliffwalkingEnv.py
+src/chapt5_tem_diff/__init__.py
+src/chapt5_tem_diff/chapt5_CLiffwalkingEnv.py
+src/chapt5_tem_diff/chapt5_sarsa.py
+src/chapt5_tem_diff/chapt5_sarsa_run.py
+src/my_project.egg-info/PKG-INFO
+src/my_project.egg-info/SOURCES.txt
+src/my_project.egg-info/dependency_links.txt
+src/my_project.egg-info/top_level.txt
